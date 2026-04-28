@@ -1,4 +1,4 @@
-# The Council — Multi-Agent Debate Engine
+# The Council - Multi-Agent Debate Engine
 
 A genuinely agentic debate system where three AI personas argue a question in real time, you can jump in anytime, and a Judge delivers a final verdict.
 
@@ -131,10 +131,8 @@ groq
 gradio
 ```
 
-That's it. No LangChain, no vector DB, no external APIs beyond Groq.
+
 
 ---
 
-## License
 
-MIT
