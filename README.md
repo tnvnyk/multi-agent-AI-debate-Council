@@ -43,7 +43,7 @@ the_council/
 └── requirements.txt
 ```
 
-Each file has a single responsibility. Swap the LLM provider → edit `agents.py` only. Change personas → edit `config.py` only. Redesign the UI → edit `ui.py` only.
+Each file has a single responsibility. Swap the LLM provider - edit `agents.py` only. Change personas - edit `config.py` only. Redesign the UI - edit `ui.py` only.
 
 ---
 
